@@ -36,7 +36,8 @@ performance across products, segments, geographies, and time. The dashboard conv
 
 ## Project Files
 - Power BI (.pbix) file  
-- Dashboard screenshots  
+- ![image](https://github.com/ratandeepsingh246-prog/Finance/blob/6839516d7b190c779a656f1c6ba37b11e1b8ea9c/Screenshot%20(181).png)
+- 
 
 ## Usage
 Open the `.pbix` file in Power BI Desktop and use filters to explore financial performance by year, segment, product, and geography.
